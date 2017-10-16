@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="xml.usermapper8">
+     <select id="getStudent" parameterType="int" resultType="com.lyg.mybatisdb.Student">
+        select * from studenttb8 where id=#{id}
+     </select>
+     <insert id="insertStudent" parameterType="com.lyg.mybatisdb.Student">
+     	insert into studenttb8 (id, name, age, otherinfo) values(#{id}, #{name}, #{age}, #{otherinfo})
+     </insert>
+     <update id="updateStudent" parameterType="com.lyg.mybatisdb.Student">
+     	update studenttb8 set name=#{name},age=#{age},otherinfo=#{otherinfo} where id=#{id}
+     </update>
+</mapper>

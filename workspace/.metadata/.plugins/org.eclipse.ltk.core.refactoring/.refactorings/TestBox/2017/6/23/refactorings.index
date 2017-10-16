@@ -1,0 +1,8 @@
+1496664806831	Encapsulate field 'loginCount'
+1496716797951	Rename method 'SaveToDb'
+1496717986590	Rename method 'operate'
+1496717997765	Rename method 'operateQuery'
+1496718111606	Rename type 'IDataBaseOperation'
+1496904183516	Delete element
+1496929693327	Move package
+1496979462344	Copy compilation units

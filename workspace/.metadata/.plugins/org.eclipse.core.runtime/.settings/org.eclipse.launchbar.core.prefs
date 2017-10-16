@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:TestClass,org.eclipse.launchbar.core.descriptorType.default\:App,org.eclipse.launchbar.core.descriptorType.default\:AppTest,org.eclipse.launchbar.core.descriptorType.default\:DBTest,org.eclipse.launchbar.core.descriptorType.default\:MultiClient,org.eclipse.launchbar.core.descriptorType.default\:ClientTest,org.eclipse.launchbar.core.descriptorType.default\:RedisTest,org.eclipse.launchbar.core.descriptorType.default\:HotLoadTest,org.eclipse.launchbar.core.descriptorType.default\:ClientTest (1),org.eclipse.launchbar.core.descriptorType.default\:RedisTestTest,org.eclipse.launchbar.core.descriptorType.default\:UnityPlayerActivity,org.eclipse.launchbar.core.descriptorType.default\:MybatisDb,org.eclipse.launchbar.core.descriptorType.default\:FloatTest2,org.eclipse.launchbar.core.descriptorType.default\:FloatTest,org.eclipse.launchbar.core.descriptorType.default\:DBTest (2),org.eclipse.launchbar.core.descriptorType.default\:DBTest (1),org.eclipse.launchbar.core.descriptorType.default\:Hook,org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:DBTest (3),org.eclipse.launchbar.core.descriptorType.default\:SimpleTypeTest,org.eclipse.launchbar.core.descriptorType.default\:Main (1),org.eclipse.launchbar.core.descriptorType.default\:MyThread,org.eclipse.launchbar.core.descriptorType.default\:TestClient,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.launchbar.core.descriptorType.default\:flash,org.eclipse.launchbar.core.descriptorType.default\:Server,org.eclipse.launchbar.core.descriptorType.default\:Client
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:App/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:App/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:ClientTest\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:DBTest\ (2)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:HotLoadTest/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:SimpleTypeTest/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:flash/activeLaunchMode=run

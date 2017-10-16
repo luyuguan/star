@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1501121906050_1" label="jprotobuf-rpc-socket" name="jprotobuf-rpc-socket">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jprotobuf-rpc-socket" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1501643535560_2" label="dubbo-demo" name="dubbo-demo"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1501643865852_3" label="dubbo-parent" name="dubbo-parent"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1494332204369_0" label="Window Working Set" name="Aggregate for window 1494332204368"/>
+</workingSetManager>

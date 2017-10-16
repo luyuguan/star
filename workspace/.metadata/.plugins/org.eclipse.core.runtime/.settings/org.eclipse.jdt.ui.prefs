@@ -1,0 +1,30 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.lyg.db.TableOperator"><rhs name\="com.lyg.db.TableOperator"/></lhs><lhs name\="io.netty.util.ReferenceCounted"><rhs name\="io.netty.buffer.UnpooledHeapByteBuf"/></lhs><lhs name\="io.netty.buffer.ByteBuf"><rhs name\="io.netty.buffer.UnpooledHeapByteBuf"/></lhs><lhs name\="com.lyg.login.PlayerInfo"><rhs name\="com.lyg.login.PlayerInfo"/></lhs><lhs name\="io.netty.util.concurrent.EventExecutorGroup"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.ScheduledExecutorService"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.ExecutorService"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="java.util.concurrent.Executor"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="io.netty.channel.EventLoopGroup"><rhs name\="io.netty.channel.nio.NioEventLoopGroup"/></lhs><lhs name\="io.netty.util.AbstractConstant"><rhs name\="io.netty.channel.ChannelOption"/></lhs><lhs name\="io.netty.util.Constant"><rhs name\="io.netty.channel.ChannelOption"/></lhs><lhs name\="io.netty.channel.ChannelOption"><rhs name\="io.netty.channel.ChannelOption"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|;
+proposalOrderMigrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

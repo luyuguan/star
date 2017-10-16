@@ -1,0 +1,17 @@
+use lygdb;
+drop table studenttb1;
+drop table studenttb2;
+drop table studenttb3;
+drop table studenttb4;
+drop table studenttb5;
+drop table studenttb6;
+drop table studenttb7;
+drop table studenttb8;
+create table studenttb1 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb2 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb3 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb4 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb5 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb6 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb7 (id int primary key, age int, name char(20), otherinfo char(255));
+create table studenttb8 (id int primary key, age int, name char(20), otherinfo char(255));	

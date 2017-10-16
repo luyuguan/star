@@ -1,0 +1,7 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=/Users/champ/Documents/javadir/workspace/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=champ
+eclipse.m2.downloadSources=true
+eclipse.m2.runtimes=champ
+eclipse.m2.runtimesNodes/champ/location=/Users/champ/apache-maven-3.5.0
+eclipse.m2.runtimesNodes/champ/type=EXTERNAL
+eclipse.preferences.version=1

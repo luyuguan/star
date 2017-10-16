@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+			<item value="GitHub Issues"/>
+		</list>
+		<list key="issueManagementUrl">
+			<item value="https://github.com/Baidu-ecom/Jprotobuf-rpc-socket/issues"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="714" key="width"/>
+		<item value="255" key="x"/>
+		<item value="163" key="y"/>
+		<item value="489" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/champ/Downloads/dubbo-master"/>
+			<item value="/Users/champ/Downloads/dubbo-master/dubbo-demo"/>
+			<item value="/Users/champ/Downloads/dubbo-master/dubbo-demo/dubbo-demo-provider"/>
+			<item value="/Users/champ/Documents/javadir/tools/Jprotobuf-rpc-socket-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/champ/Documents/javadir/workspace/123123/src/main/java/App.java"/>
+			<item value="/Users/champ/Documents/javadir/workspace/hgfjh/src/site/fml"/>
+			<item value="/Users/champ/Documents/javadir/workspace/DBTest"/>
+			<item value="/Users/champ/Documents/javadir/workspace/123123"/>
+			<item value="/Users/champ/Documents/javadir/workspace/DBTest2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.lyg.flash"/>
+			<item value="lyg.test"/>
+			<item value="bvghhj.pojoigtdzrs"/>
+			<item value="fdsd.hgfjh"/>
+		</list>
+		<list key="groupId">
+			<item value="com.lyg"/>
+			<item value="lyg"/>
+			<item value="bvghhj"/>
+			<item value="fdsd"/>
+		</list>
+		<list key="artifactId">
+			<item value="flash"/>
+			<item value="test"/>
+			<item value="pojoigtdzrs"/>
+			<item value="hgfjh"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+#Thu Jul 27 10:48:52 CST 2017
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=Add Plugin
